@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JalasoftDevLevel1.ItalianRestaurant", "JalasoftDevLevel1.ItalianRestaurant.csproj", "{976A7102-BB1A-4CAA-AAC1-5E09EC37C993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976A7102-BB1A-4CAA-AAC1-5E09EC37C993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976A7102-BB1A-4CAA-AAC1-5E09EC37C993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976A7102-BB1A-4CAA-AAC1-5E09EC37C993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976A7102-BB1A-4CAA-AAC1-5E09EC37C993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F9F4DB-CD9B-46D5-80A3-24CA3FFA0EC8}
+	EndGlobalSection
+EndGlobal
