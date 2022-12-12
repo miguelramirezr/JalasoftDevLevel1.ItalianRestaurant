@@ -10,4 +10,3 @@ Acceptance Criteria:
 -   The beverages menu is: soda $6.5, wine $9 and beer $7.5 
 
 **Implement all we've learned in class: structs, enums, Collections, etc.** 
-```
